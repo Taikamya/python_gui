@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+
+# Virtual environments
+venv
+
+# Cache files
+*.pyc
+
+# Qt files - NOT YET IN USE
+*.ui
+
+# Proj files
+settings.py
